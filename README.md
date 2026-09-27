@@ -8,6 +8,7 @@ Directly boot & boot install Devuan-6 from Official Devuan Installation Media us
 
 # Usage
 Load provided 'scandev-excalibur.gz' along with the main 'initrd' of the installation media via grub loopback module.
+If you are using 'https://github.com/Mexit/MultiOS-USB', it is just a few steps:
 
 0. Use MultiOS-USB partition on 'exfat' or 'ext4' filesystem.
 1. Copy your Devuan-6-iso files to 'ISOs' directory.
