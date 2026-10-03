@@ -3,7 +3,7 @@ Directly boot & boot install Devuan-6 from Official Devuan Installation Media us
 
 # Features
 - Filesystems: exfat, ext4
-- Provide full debian boot menu
+- Provide devuan boot menu
 - Supported ISOs: Devuan-desktop, Devuan-netinst & Devuan-server of Devuan-6 release.
 
 # Usage
